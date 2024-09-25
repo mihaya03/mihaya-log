@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "default": "mihaya-log-fdc89"
+  },
+  "targets": {
+    "mihaya-log-fdc89": {
+      "hosting": {
+        "mihaya-log-fdc89": [
+          "mihaya-log-fdc89"
+        ]
+      }
+    }
+  },
+  "hosting": {
+    "public": "_site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
