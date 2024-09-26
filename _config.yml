@@ -226,3 +226,15 @@ jekyll-archives:
 
 livereload:
   enabled: true
+
+jekyll_compose:
+  auto_open: true
+  auto_date: true
+  default_front_matter:
+    posts:
+      categories:
+      tags:
+      description:
+      toc: false
+      comments: false
+      media_subpath: /assets/image/
